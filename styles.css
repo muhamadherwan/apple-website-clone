@@ -143,6 +143,17 @@ header {
   border-bottom-color: #0070c9;
 }
 
+.watch {
+  background: url('images/hero/watch/watch_large.jpg');
+}
+
+.title-heading-watch {
+  height: 7.8rem;
+  background: url('images/hero/watch/logo_watch_medium.png') center no-repeat;
+  background-size: auto 7.8rem;
+  margin-top: 1.6rem;
+}
+
 /* Moved to the bottom of all section styles to keep consistent styles  */
 .hero {
   height: 69.2rem;
